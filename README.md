@@ -27,7 +27,7 @@ Inspired by the **Tonnetz** — a musical space representing harmonic relationsh
 - Clean **Tkinter canvas interface** with dynamic note labels and connecting lines representing harmonic relations.
 
 ---
-
+https://github.com/user-attachments/assets/3b66789a-4763-4721-b7db-a27a64800acd
 ## 🛠️ Requirements  
 
 Install dependencies via pip:
@@ -38,5 +38,5 @@ pip install numpy sounddevice noise
 
 
 
-https://github.com/user-attachments/assets/3b66789a-4763-4721-b7db-a27a64800acd
+
 
