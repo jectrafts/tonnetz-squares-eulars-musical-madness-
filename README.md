@@ -34,3 +34,9 @@ Install dependencies via pip:
 
 ```bash
 pip install numpy sounddevice noise
+
+
+
+
+https://github.com/user-attachments/assets/3b66789a-4763-4721-b7db-a27a64800acd
+
